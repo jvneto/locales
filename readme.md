@@ -1,0 +1,1 @@
+# sBotics locales files repository
