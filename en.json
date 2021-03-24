@@ -147,7 +147,7 @@
   "LEVEL_2": "Level 2",
   "L2_RESCUE_KIT": "L2 Rescue Kit",
   "L2_EVACUATION_POINT_REDUX": "L2 Evac. Point",
-  "GENERATE_NEW_ARENA" : "Generate\nnew arena",
+  "GENERATE_NEW_ARENA": "Generate\nnew arena",
   "ARENA_CODE_DESCRIPTION": "Arena generation code...",
   "MAX_SCORE": "Max. possible score:",
   "COPY_ARENA_CODE": "Copy the generation code above",
@@ -385,5 +385,6 @@
   "RANDOM_EVACUATION_POINT": "Random evacuation point",
   "FRONTAL_EVACUATION_POINT": "Frontal evacuation point",
   "RIGHT_FACING_FRONTAL_EVACUATION_POINT": "Right-facing frontal evacuation point",
-  "RIGHT_FACING_EVACUATION_POINT": "Right-facing evacuation point"
+  "RIGHT_FACING_EVACUATION_POINT": "Right-facing evacuation point",
+  "OUTDATED_OR_NO_CONNECTION": "Your sBotics client is outdated or we couldn't connect to our servers.\n\nTry again later."
 }
