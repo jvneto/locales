@@ -368,5 +368,22 @@
   "DOUBLE_SIMPLE_CURVE": "Double simple curve",
   "CIRCULAR_CURVE": "Circular curve",
   "OBSTACLE_ON_CURVE": "Obstacle on curve",
-  "CURVE_MAZE_TILE": "Curve Maze tile"
+  "CURVE_MAZE_TILE": "Curve Maze tile",
+  "NO_TIME_LIMIT": "Sem tempo máximo",
+  "NO_ZONE_EXIT": "No evacuation zone exit",
+  "LEFT_FACING_ZONE_EXIT": "Left-facing evacuation zone exit",
+  "RIGHT_FACING_FRONTAL_ZONE_EXIT": "Right-facing frontal evacuation zone exit",
+  "RIGHT_FACING_ZONE_EXIT": "Right-facing evacuation zone exit",
+  "NO_RESCUE_ZONE_RAMP": "No rescue zone ramp",
+  "DEFAULT_RESCUE_ZONE_RAMP": "Default rescue zone ramp",
+  "GAP_RESCUE_ZONE_RAMP": "Rescue zone ramp with gap",
+  "SPEED_BUMP_RESCUE_ZONE_RAMP": "Rescue zone ramp with speed bump",
+  "SPEED_BUMPS_RESCUE_ZONE_RAMP": "Rescue zone ramp with multiple speed bumps",
+  "GAPS_RESCUE_ZONE_RAMP": "Rescue zone ramp with multiple gaps",
+  "GAP_SPEED_BUMP_RESCUE_ZONE_RAMP": "Rescue zone ramp with gap and speed bump",
+  "NO_EVACUATION_POINT": "No evacuation point",
+  "RANDOM_EVACUATION_POINT": "Random evacuation point",
+  "FRONTAL_EVACUATION_POINT": "Frontal evacuation point",
+  "RIGHT_FACING_FRONTAL_EVACUATION_POINT": "Right-facing frontal evacuation point",
+  "RIGHT_FACING_EVACUATION_POINT": "Right-facing evacuation point"
 }
