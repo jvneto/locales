@@ -391,5 +391,8 @@
   "OFF_THE_LINE": "Saiu da linha",
   "OFF_THE_PATH": "Saiu do caminho",
   "MOVED_THE_OBSTACLE": "Moveu obstáculo",
-  "OUT_OF_BOUNDS": "Saiu da arena"
+  "OUT_OF_BOUNDS": "Saiu da arena",
+  "DISCORD_PROGRAMMING_IN": "Programando ({0})",
+  "DISCORD_EDITING_ARENA": "Editando arena",
+  "DISCORD_ROBOT": "Testando ({0})"
 }
