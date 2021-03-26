@@ -394,5 +394,6 @@
   "OUT_OF_BOUNDS": "Saiu da arena",
   "DISCORD_PROGRAMMING_IN": "Programando ({0})",
   "DISCORD_EDITING_ARENA": "Editando arena",
-  "DISCORD_ROBOT": "Testando ({0})"
+  "DISCORD_ROBOT": "Testando ({0})",
+  "OBSTACLE_TIMER": "Falha ao desviar do obstáculo",
 }
