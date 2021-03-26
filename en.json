@@ -394,5 +394,6 @@
   "OUT_OF_BOUNDS": "Out of bounds",
   "DISCORD_PROGRAMMING_IN": "Programming ({0})",
   "DISCORD_EDITING_ARENA": "Editing arena",
-  "DISCORD_ROBOT": "Using {0}"
+  "DISCORD_ROBOT": "Using {0}",
+  "OBSTACLE_TIMER": "Failed on overcoming the obstacle",
 }
