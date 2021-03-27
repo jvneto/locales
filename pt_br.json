@@ -401,5 +401,6 @@
   "IDLE": "Idle",
   "UNDEFINED": "Linguagem não definida",
   "REDUC_LANGUAGE": "Idioma do REduc",
-  "SAMPLE_CODE": "inicio\nfim"
+  "SAMPLE_CODE": "inicio\nfim",
+  "DEV_BUILD": "Desenvolvedor"
 }

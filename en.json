@@ -401,5 +401,6 @@
   "IDLE": "Idle",
   "UNDEFINED": "Undefined language",
   "REDUC_LANGUAGE": "REduc language",
-  "SAMPLE_CODE": "begin\nend"
+  "SAMPLE_CODE": "begin\nend",
+  "DEV_BUILD": "Developer build"
 }
