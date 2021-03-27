@@ -108,7 +108,7 @@
   "APPLY": "Confirmar mudanças",
   "CREDITS_TEXT": "<link=\"http://laica.ifrn.edu.br\"><color=blue>LAICA - Laboratório de Pesquisa em Informática, Comunicação e Automação</color></link>; <link=\"http://www.natalnet.br/home/\"><color=blue>Rede de Laboratórios NatalNet</color></link>",
   "CONTRIBUTORS": "<b>Contributors:</b>",
-  "CONTRIBUTORS_TEXT": "<link=\"https://www.linkedin.com/in/lucas-moura-do-nascimento\"><color=blue>Lucas Nascimento</color></link>, <link=\"https://www.linkedin.com/in/davi-souto-671694180/\"><color=blue>Davi Neri</color></link>, <link=\"https://www.linkedin.com/in/txiag\"><color=blue>Thiago Ferreira</color></link>, <link=\"https://www.linkedin.com/in/almeidafranci/\"><color=blue>Francinaldo Almeida</color></link>, <link=\"https://www.linkedin.com/in/saulo-daniel-ferreira-pontes/\"><color=blue>Saulo Pontes</color></link>, <link=\"http://lattes.cnpq.br/0403190834957755\"><color=blue>Erika Albuquerque</color></link>",
+  "CONTRIBUTORS_TEXT": "<link=\"https://www.linkedin.com/in/lucas-moura-do-nascimento\"><color=blue>Lucas Nascimento</color></link>, <link=\"https://www.linkedin.com/in/davi-souto-671694180/\"><color=blue>Davi Neri</color></link>, <link=\"https://www.linkedin.com/in/txiag\"><color=blue>Thiago Ferreira</color></link>, <link=\"https://www.linkedin.com/in/almeidafranci/\"><color=blue>Francinaldo Almeida</color></link>, <link=\"https://www.linkedin.com/in/saulo-daniel-ferreira-pontes/\"><color=blue>Saulo Pontes</color></link>, <link=\"http://lattes.cnpq.br/0403190834957755\"><color=blue>Erika Albuquerque</color></link>, <link=\"http://www.linkedin.com/in/julio-c-neto\"><color=blue>Julio Neto</color></link>",
   "GUIDANCE": "<b>Guidance:</b>",
   "GUIDANCE_TEXT": "<link=\"http://lattes.cnpq.br/0749958626098562\"><color=blue>Sarah Sá</color></link>",
   "PHOTO_GRANT": "Imagem do Centro de Convenções de Natal por <link=\"https://www.instagram.com/nataltour360\"><color=blue>Natal Tour 360</color></link>;\nDisponível publicamente em <link=\"https://bit.ly/3jEaIu1\"><color=blue>Google Street View</color></link>.",
@@ -117,9 +117,9 @@
   "ACTUATOR_FUNCTIONS": "Funções do atuador:",
   "ACTUATOR_FUNCTIONS_FORKLIFT": "• levantar(numero)\n• baixar(numero)\n• girarbaixo(numero)\n• girarcima(numero)\n• abrir()\n• fechar()",
   "ACTUATOR_FUNCTIONS_BULLDOZER": "• levantar(numero)\n• baixar(numero)\n• girarbaixo(numero)\n• girarcima(numero)\n\n",
-  "ACTUATOR_FUNCTIONS_FRONTAL_FORKLIFT": "• levantar(numero)\n• baixar(numero)\n• girarbaixo(numero)\n• girarcima(numero)\n\n",
-  "ACTUATOR_FUNCTIONS_FRONTAL_REDUCED_RANGE_FORKLIFT": "• levantar(numero)\n• baixar(numero)\n• girarbaixo(numero)\n• girarcima(numero)\n\n",
-  "ACTUATOR_FUNCTIONS_REDUCED_RANGE_FORKLIFT": "• levantar(numero)\n• baixar(numero)\n• girarbaixo(numero)\n• girarcima(numero)\n\n",
+  "ACTUATOR_FUNCTIONS_FRONTAL_FORKLIFT": "• levantar(numero)\n• baixar(numero)\n• girarbaixo(numero)\n• girarcima(numero)\n• abrir()\n• fechar()\n\n",
+  "ACTUATOR_FUNCTIONS_FRONTAL_REDUCED_RANGE_FORKLIFT": "• levantar(numero)\n• baixar(numero)\n• girarbaixo(numero)\n• girarcima(numero)\n• abrir()\n• fechar()\n\n",
+  "ACTUATOR_FUNCTIONS_REDUCED_RANGE_FORKLIFT": "• levantar(numero)\n• baixar(numero)\n• girarbaixo(numero)\n• girarcima(numero)\n• abrir()\n• fechar()\n\n",
   "ACTUATOR_FUNCTIONS_REAR_BULLDOZER": "• levantar(numero)\n• baixar(numero)\n• girarbaixo(numero)\n• girarcima(numero)\n\n",
   "ACTUATOR_FUNCTIONS_FAN": "• ligarventilador()\n• desligarventilador()\n\n\n",
   "CUSTOM": "Customizado",
@@ -397,5 +397,9 @@
   "DISCORD_ROBOT": "Testando ({0})",
   "OBSTACLE_TIMER": "Falha ao desviar do obstáculo",
   "FIRST_TILE": "Primeira peça",
-  "INTERSECTIONS": "Interseção"
+  "INTERSECTIONS": "Interseção",
+  "IDLE": "Idle",
+  "UNDEFINED": "Linguagem não definida",
+  "REDUC_LANGUAGE": "Idioma do REduc",
+  "SAMPLE_CODE": "inicio\nfim"
 }
