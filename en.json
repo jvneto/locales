@@ -400,7 +400,8 @@
   "INTERSECTIONS": "Intersection",
   "IDLE": "Idle",
   "UNDEFINED": "Undefined language",
-  "REDUC_LANGUAGE": "REduc language",
+  "REDUC_LANGUAGE": "rEduc language",
   "SAMPLE_CODE": "begin\nend",
-  "DEV_BUILD": "Dev. Build"
+  "DEV_BUILD": "Dev. Build",
+  "ROBOT_NOT_MOVING": "Robot is not moving"
 }
