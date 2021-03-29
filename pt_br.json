@@ -403,5 +403,6 @@
   "REDUC_LANGUAGE": "Idioma do rEduc",
   "SAMPLE_CODE": "inicio\\nfim",
   "DEV_BUILD": "Desenvolvedor",
-  "ROBOT_NOT_MOVING": "Robô parado muito tempo"
+  "ROBOT_NOT_MOVING": "Robô parado muito tempo",
+  "DEFAULT_DESCRIPTION": "Arena sem título"
 }
