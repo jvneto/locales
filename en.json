@@ -404,5 +404,6 @@
   "SAMPLE_CODE": "begin\\nend",
   "DEV_BUILD": "Dev. Build",
   "ROBOT_NOT_MOVING": "Robot is not moving",
-  "DEFAULT_DESCRIPTION": "Untitled Arena"
+  "DEFAULT_DESCRIPTION": "Untitled Arena",
+  "QUALITY_LOW": "Low"
 }
