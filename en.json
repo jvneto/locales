@@ -401,7 +401,7 @@
   "IDLE": "Idle",
   "UNDEFINED": "Undefined language",
   "REDUC_LANGUAGE": "rEduc language",
-  "SAMPLE_CODE": "begin\\nend",
+  "ATTENTION": "Attention!",
   "DEV_BUILD": "Dev. Build",
   "ROBOT_NOT_MOVING": "Robot is not moving",
   "DEFAULT_DESCRIPTION": "Untitled Arena",
