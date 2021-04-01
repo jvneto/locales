@@ -215,7 +215,7 @@
   "UNEXPECTED_ERROR": "Ocorreu um erro inesperado. Tente novamente.",
   "CHECK_CONNECTION": "Verifique sua conexão com a Internet e tente novamente.",
   "GENERIC_ERROR": "Há um erro em seu código. Sugestão: verifique o uso de caracteres não permitidos.",
-  "COMPILATION_ERROR": "Erro na linha {0}. Menssagem: {1}",
+  "COMPILATION_ERROR": "Erro na linha {0}. Mensagem: {1}",
   "FILE_EMPTY": "O arquivo não pode estar vazio. Escreva algo antes de salvar e tente novamente.",
   "SAVED_SUCCESSFULLY": "Programa salvo com sucesso!",
   "UNABLE_TO_COMPILE": "Não foi possível compilar seu código. Tente novamente ou entre em contato conosco para obter mais ajuda.",
