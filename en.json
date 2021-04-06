@@ -405,5 +405,6 @@
   "DEV_BUILD": "Dev. Build",
   "ROBOT_NOT_MOVING": "Robot is not moving",
   "DEFAULT_DESCRIPTION": "Untitled Arena",
-  "QUALITY_LOW": "Low"
+  "QUALITY_LOW": "Low",
+  "CONFIRM_PLACEMENT": "Confirm\n(press M)"
 }
