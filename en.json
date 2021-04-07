@@ -406,5 +406,10 @@
   "ROBOT_NOT_MOVING": "Robot is not moving",
   "DEFAULT_DESCRIPTION": "Untitled Arena",
   "QUALITY_LOW": "Low",
-  "CONFIRM_PLACEMENT": "Confirm\n(press {0})"
+  "CONFIRM_PLACEMENT": "Confirm\n(press {0})",
+  "DEFAULT_ARENA_NAME": "my arena",
+  "ARENAEXPORT_SUCCESS": "Arena exported successfully",
+  "ARENAEXPORT_FAIL": "Arena couldn't be exported to directory",
+  "ARENAIMPORT_SUCCESS": "Arena imported successfully",
+  "ARENAIMPORT_FAIL": "Arena couldn't be imported"
 }

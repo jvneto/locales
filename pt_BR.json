@@ -406,5 +406,10 @@
   "ROBOT_NOT_MOVING": "Robô parado muito tempo",
   "DEFAULT_DESCRIPTION": "Arena sem título",
   "QUALITY_LOW": "Baixa",
-  "CONFIRM_PLACEMENT": "Confirmar\n(aperte {0})"
+  "CONFIRM_PLACEMENT": "Confirmar\n(aperte {0})",
+  "DEFAULT_ARENA_NAME": "minha arena",
+  "ARENAEXPORT_SUCCESS": "Arena exportada com sucesso",
+  "ARENAEXPORT_FAIL": "Arena não pôde ser exportada à pasta",
+  "ARENAIMPORT_SUCCESS": "Arena importada com sucesso",
+  "ARENAIMPORT_FAIL": "Arena não pôde ser importada"
 }
