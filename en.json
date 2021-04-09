@@ -186,7 +186,7 @@
   "CHANGE_RESCUE_ZONE": "Change rescue zone",
   "TIME_OF_DAY": "Time of day:",
   "OBSTACLE_TIME": "Obstacle dodging time:",
-  "NO_CHECKPOINTS": "No. of checkpoints:",
+  "NO_CHECKPOINTS": "No. of placeable checkpoints:",
   "ALLOWED_ROBOTS": "Allowed Robots:",
   "NO_VICTIMS": "No. of victims",
   "TOGGLE_ARENA_MARKERS": "Show arena markers",
@@ -402,7 +402,7 @@
   "UNDEFINED": "Undefined language",
   "REDUC_LANGUAGE": "rEduc language",
   "ATTENTION": "Attention!",
-  "DEV_BUILD": "Dev. Build",
+  "DEV_BUILD": "Dev./Beta Build",
   "ROBOT_NOT_MOVING": "Robot is not moving",
   "DEFAULT_DESCRIPTION": "Untitled Arena",
   "QUALITY_LOW": "Low",
@@ -411,5 +411,10 @@
   "ARENAEXPORT_SUCCESS": "Arena exported successfully",
   "ARENAEXPORT_FAIL": "Arena couldn't be exported to directory",
   "ARENAIMPORT_SUCCESS": "Arena imported successfully",
-  "ARENAIMPORT_FAIL": "Arena couldn't be imported"
+  "ARENAIMPORT_FAIL": "Arena couldn't be imported",
+  "CURVES_LABEL": "Curves:",
+  "STRAIGHT_LINES_LABEL": "Straight Lines:",
+  "COMING_SOON": "Coming soon",
+  "ADD_TILE_CHECKPOINT": "Add tile checkpoint",
+  "REMOVE_TILE_CHECKPOINT": "Remove tile checkpoint"
 }
