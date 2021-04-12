@@ -416,5 +416,8 @@
   "STRAIGHT_LINES_LABEL": "Retas:",
   "COMING_SOON": "Em breve",
   "ADD_TILE_CHECKPOINT": "Adicionar marcador do ladrilho",
-  "REMOVE_TILE_CHECKPOINT": "Remover marcador do ladrilho"
+  "REMOVE_TILE_CHECKPOINT": "Remover marcador do ladrilho",
+  "INSTAGRAM_URL": "https://www.instagram.com/simulador.sbotics/",
+  "DISCORD_CHANNEL_URL": "https://discord.gg/PubzWWjzuz",
+  "FEEDBACK_URL": "https://discord.gg/PubzWWjzuz"
 }

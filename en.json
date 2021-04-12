@@ -416,5 +416,8 @@
   "STRAIGHT_LINES_LABEL": "Straight Lines:",
   "COMING_SOON": "Coming soon",
   "ADD_TILE_CHECKPOINT": "Add tile checkpoint",
-  "REMOVE_TILE_CHECKPOINT": "Remove tile checkpoint"
+  "REMOVE_TILE_CHECKPOINT": "Remove tile checkpoint",
+  "INSTAGRAM_URL": "https://www.instagram.com/sbotics.simulator/",
+  "DISCORD_CHANNEL_URL": "https://discord.gg/PubzWWjzuz",
+  "FEEDBACK_URL": "https://bit.ly/sboticsexperiencia"
 }
