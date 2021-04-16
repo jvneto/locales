@@ -95,7 +95,6 @@
   "DEAD_VICTIM": "Dead\nvictim",
   "CUBOID": "Cuboid\n",
   "ARENA_MARKER": "Marker\n(press M)",
-  "LOP_ARENA_MARKER": "LoP marker\n(press F)",
   "TUTORIAL_MARKERS": "Tutorial:",
   "TUTORIAL_ARENA_MARKERS": "Right-click on the field to add an object; Click on an object to edit its position, press the button again to confirm the new position or click with the left mouse button to delete it.",
   "NO_ATTEMPTS_LEFT": "Your attempts for this course section are over, would you like to proceed to the next checkpoint or keep trying without scoring any additional points?",
@@ -419,5 +418,6 @@
   "REMOVE_TILE_CHECKPOINT": "Remove tile checkpoint",
   "INSTAGRAM_URL": "https://www.instagram.com/sbotics.simulator/",
   "DISCORD_CHANNEL_URL": "https://discord.gg/PubzWWjzuz",
-  "FEEDBACK_URL": "https://discord.gg/PubzWWjzuz"
+  "FEEDBACK_URL": "https://discord.gg/PubzWWjzuz",
+  "CODE_ERROR": "RUNTIME ERROR! CHECK YOUR CODE!"
 }
