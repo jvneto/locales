@@ -188,7 +188,7 @@
   "NO_CHECKPOINTS": "N° de marcadores colocáveis:",
   "ALLOWED_ROBOTS": "Robôs permitidos:",
   "NO_VICTIMS": "N° de vítimas",
-  "TOGGLE_ARENA_MARKERS": "Mostrar marcadores de arena",
+  "TILE_PROPERTIES": "Propriedades do ladrilho",
   "TOGGLE_TIME_LIMIT_END": "Tempo máximo parar robô",
   "TOGGLE_LACK_OF_PROGRESS": "Falha de progresso",
   "TOGGLE_OBSTACLE_PUSHING": "Empurrar obstáculos",
