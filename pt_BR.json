@@ -94,7 +94,7 @@
   "LIVE_VICTIM": "Vítima\nviva",
   "DEAD_VICTIM": "Vítima\nmorta",
   "CUBOID": "Paralelepípedo",
-  "ARENA_MARKER": "Marcador\n(aperte M)",
+  "NO_CHECKPOINTS_REDUX": "Sem marc.",
   "TUTORIAL_MARKERS": "Tutorial:",
   "TUTORIAL_ARENA_MARKERS": "Clique com o botão direito do mouse na arena para adicionar um objeto; Clique em um inserido para editar sua posição, aperte no botão novamente para confirmar o novo local ou clique com o botão esquerdo do mouse para apagá-lo.",
   "NO_ATTEMPTS_LEFT": "Suas tentativas desse percurso com pontuação acabaram, deseja avançar para o próximo percurso ou continuar tentando os itens sem pontuação?",

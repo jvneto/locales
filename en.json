@@ -94,7 +94,7 @@
   "LIVE_VICTIM": "Live\nvictim",
   "DEAD_VICTIM": "Dead\nvictim",
   "CUBOID": "Cuboid\n",
-  "ARENA_MARKER": "Marker\n(press M)",
+  "NO_CHECKPOINTS_REDUX": "No markers",
   "TUTORIAL_MARKERS": "Tutorial:",
   "TUTORIAL_ARENA_MARKERS": "Right-click on the field to add an object; Click on an object to edit its position, press the button again to confirm the new position or click with the left mouse button to delete it.",
   "NO_ATTEMPTS_LEFT": "Your attempts for this course section are over, would you like to proceed to the next checkpoint or keep trying without scoring any additional points?",
