@@ -422,6 +422,6 @@
   "CODE_ERROR": "RUNTIME ERROR! CHECK YOUR CODE!",
   "FIXED_RESCUE_ZONE_RAMP_CHECKPOINT": "Fixed Rescue Zone ramp checkpoint",
   "FIXED_RESCUE_ZONE_EXIT_CHECKPOINT": "Fixed Rescue Zone exit checkpoint",
-  "TUTORIAL_PREVIEW_CAMERA": "Use ↑, W, ↓, S, ←, A, →, D, Z and X to move the preview camera.",
+  "TUTORIAL_PREVIEW_CAMERA": "Use W, S, A, D, Z and X to move the preview camera (R to reset).",
   "TOGGLE_ARENA_MARKERS": "Work in progress"
 }

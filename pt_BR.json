@@ -422,6 +422,6 @@
   "CODE_ERROR": "ERRO DE EXECUÇÃO! VEJA SEU CÓDIGO!",
   "FIXED_RESCUE_ZONE_RAMP_CHECKPOINT": "Marcador fixo na entrada da rampa da sala de resgate",
   "FIXED_RESCUE_ZONE_EXIT_CHECKPOINT": "Marcador fixo na saída da sala de resgate",
-  "TUTORIAL_PREVIEW_CAMERA": "Use ↑, W, ↓, S, ←, A, →, D, Z e X para mover a câmera de pré-visualização.",
+  "TUTORIAL_PREVIEW_CAMERA": "Use W, S, A, D, Z e X para mover a câmera de pré-visualização (R para resetar).",
   "TOGGLE_ARENA_MARKERS": "Work in progress"
 }
