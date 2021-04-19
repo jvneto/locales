@@ -189,6 +189,7 @@
   "ALLOWED_ROBOTS": "Robôs permitidos:",
   "NO_VICTIMS": "N° de vítimas",
   "TILE_PROPERTIES": "Propriedades do ladrilho",
+  "TOGGLE_ARENA_MARKERS": "Ativar marcadores de ladrilho",
   "TOGGLE_TIME_LIMIT_END": "Tempo máximo parar robô",
   "TOGGLE_LACK_OF_PROGRESS": "Falha de progresso",
   "TOGGLE_OBSTACLE_PUSHING": "Empurrar obstáculos",
