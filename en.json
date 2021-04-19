@@ -189,6 +189,7 @@
   "ALLOWED_ROBOTS": "Allowed Robots:",
   "NO_VICTIMS": "No. of victims",
   "TILE_PROPERTIES": "Tile properties",
+  "TOGGLE_ARENA_MARKERS": "Enable arena markers",
   "TOGGLE_TIME_LIMIT_END": "Time limit stops code execution",
   "TOGGLE_LACK_OF_PROGRESS": "Lack of progress",
   "TOGGLE_OBSTACLE_PUSHING": "Obstacle pushing",
