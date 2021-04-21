@@ -170,7 +170,7 @@
   "TILE_HEIGHT": "Altura\n(aperte +/-)",
   "CLEAR_ARENA": "Limpar Arena",
   "NEEDS_ATTENTION": "Arena requer\nAtenção",
-  "CURSOR_TUTORIAL": "Use W, S, A, D, Z e X para mover o cursor roxo (P para resetar/O para mover câmera).",
+  "CURSOR_TUTORIAL": "Use W, S, A, D, Z e X para mover o cursor roxo (P para resetar).",
   "POSITIONING_TIP": "O distanciamento da câmera pode deturpar as leituras.",
   "OBJECTS": "Objetos",
   "LINES_DO_NOT_CONNECT": "Linhas não se encontram!",
@@ -423,5 +423,6 @@
   "FIXED_RESCUE_ZONE_RAMP_CHECKPOINT": "Marcador fixo na entrada da rampa da sala de resgate",
   "FIXED_RESCUE_ZONE_EXIT_CHECKPOINT": "Marcador fixo na saída da sala de resgate",
   "TUTORIAL_PREVIEW_CAMERA": "Use W, S, A, D, Z e X para mover a câmera de pré-visualização (R para resetar).",
+  "TOGGLE_CAMERA_MODES": "Aperte O para trocar entre modos da câmera.",
   "TOGGLE_ARENA_MARKERS": "Work in progress"
 }
