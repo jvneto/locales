@@ -424,5 +424,6 @@
   "FIXED_RESCUE_ZONE_EXIT_CHECKPOINT": "Fixed Rescue Zone exit checkpoint",
   "TUTORIAL_PREVIEW_CAMERA": "Use W, S, A, D, Z and X to move the preview camera (R to reset).",
   "TOGGLE_CAMERA_MODES": "Press O to toggle between camera modes.",
+  "REVERSE_T_INTERSECTION": "Reverse T Intersection",
   "TOGGLE_ARENA_MARKERS": "Work in progress"
 }
