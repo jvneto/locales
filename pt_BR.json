@@ -170,7 +170,7 @@
   "TILE_HEIGHT": "Altura\n(aperte +/-)",
   "CLEAR_ARENA": "Limpar Arena",
   "NEEDS_ATTENTION": "Arena requer\nAtenção",
-  "CURSOR_TUTORIAL": "Use W, S, A, D, Z e X para mover o cursor roxo (P para resetar/O para rotacionar câmera).",
+  "CURSOR_TUTORIAL": "Use W, S, A, D, Z e X para mover o cursor roxo (P para resetar/O para mover câmera).",
   "POSITIONING_TIP": "O distanciamento da câmera pode deturpar as leituras.",
   "OBJECTS": "Objetos",
   "LINES_DO_NOT_CONNECT": "Linhas não se encontram!",
