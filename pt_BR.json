@@ -142,7 +142,6 @@
   "ROBOCUPJR_ARENA": "Arena Internacional e OBR Nacional",
   "COURSE_DIFFICULTY": "Dificuldade de percurso",
   "LIGHTING_DIFFICULTY": "Dif. de iluminação",
-  "LACK_OF_PROGRESS_REDUX": "Falha de prog.",
   "LEVEL_2": "Nível 2",
   "L2_RESCUE_KIT": "Kit Resg. N2",
   "L2_EVACUATION_POINT_REDUX": "A. Resgate N2",
@@ -426,5 +425,6 @@
   "TOGGLE_CAMERA_MODES": "Aperte O para trocar entre modos da câmera.",
   "REVERSE_T_INTERSECTION": "Encruzilhada T Invertida",
   "SAVING_CODE": "Salvando código...",
-  "TRANSLATION_LOADED": "Idioma carregado com sucesso"
+  "TRANSLATION_LOADED": "Idioma carregado com sucesso",
+  "AUTHENTICATION_FAILED": "Falha na autenticação"
 }
