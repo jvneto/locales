@@ -38,7 +38,6 @@
   "CONSOLE": "Console",
   "COMPETE": "Compete",
   "DISCONNECTED": "Disconnected",
-  "AUTHENTICATED": "Authenticated",
   "CREATE_ACCOUNT": "Doesn't have an account?",
   "REMEMBER": "Remember me",
   "FORGOT_PASSWORD": "Forgot your password?",
@@ -426,5 +425,6 @@
   "REVERSE_T_INTERSECTION": "Reverse T Intersection",
   "SAVING_CODE": "Saving code...",
   "TRANSLATION_LOADED": "Language loaded successfully",
+  "AUTHENTICATED": "User authenticated",
   "AUTHENTICATION_FAILED": "Authentication failed"
 }
