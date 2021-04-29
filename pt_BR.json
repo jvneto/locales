@@ -383,7 +383,7 @@
     "FRONTAL_EVACUATION_POINT": "Área de resgate frontal",
     "RIGHT_FACING_FRONTAL_EVACUATION_POINT": "Área de resgate frontal direita",
     "RIGHT_FACING_EVACUATION_POINT": "Área de resgate direita",
-    "OUTDATED_OR_NO_CONNECTION": "Seu sBotics está desatualizado ou não conseguimos nos conectar com os servidores\n\nTente novamente mais tarde.",
+    "OUTDATED_OR_NO_CONNECTION": "Seu sBotics está desatualizado ou não conseguimos nos conectar com os servidores",
     "LACK_OF_PROGRESS": "Falha de progresso",
     "OFF_THE_LINE": "Saiu da linha",
     "OFF_THE_PATH": "Saiu do caminho",

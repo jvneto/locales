@@ -383,7 +383,7 @@
   "FRONTAL_EVACUATION_POINT": "Frontal evacuation point",
   "RIGHT_FACING_FRONTAL_EVACUATION_POINT": "Right-facing frontal evacuation point",
   "RIGHT_FACING_EVACUATION_POINT": "Right-facing evacuation point",
-  "OUTDATED_OR_NO_CONNECTION": "Your sBotics client is outdated or we couldn't connect to our servers.\n\nTry again later.",
+  "OUTDATED_OR_NO_CONNECTION": "Your sBotics client is outdated or we couldn't connect to our servers",
   "LACK_OF_PROGRESS": "Lack of progress",
   "OFF_THE_LINE": "Off the line",
   "OFF_THE_PATH": "Off the path",
