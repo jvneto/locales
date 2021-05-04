@@ -62,7 +62,7 @@
   "IMPORTED_FILE_MESSAGE": "O arquivo {0} foi importado. Todas as mudanças salvas serão automaticamente carregadas no programa {1}.",
   "TOURNAMENT": "Competição",
   "TUTORIAL": "Tutorial",
-  "ROUTINE_REPORT": "Relatório de rotina",
+  "ROUTINE_REPORT": "Rel. da última rotina",
   "NEW_ATTEMPT": "Nova Tentativa",
   "ADVANCE": "Avançar",
   "LOGIN": "Login",
@@ -426,6 +426,7 @@
     "SAVING_CODE": "Salvando código...",
     "TRANSLATION_LOADED": "Idioma carregado com sucesso",
     "AUTHENTICATED": "Usuário autenticado",
-    "AUTHENTICATION_FAILED": "Falha na autenticação"
+    "AUTHENTICATION_FAILED": "Falha na autenticação",
+    "GAME": "Rotina"
   }
   

@@ -62,7 +62,7 @@
   "IMPORTED_FILE_MESSAGE": "The file {0} was imported. All saved changes in file will be automatically loaded in program {1}.",
   "TOURNAMENT": "Tournament",
   "TUTORIAL": "Tutorial",
-  "ROUTINE_REPORT": "Game Report",
+  "ROUTINE_REPORT": "Last game's report",
   "NEW_ATTEMPT": "Lack of Progress",
   "ADVANCE": "Advance",
   "LOGIN": "Login",
@@ -426,5 +426,6 @@
   "SAVING_CODE": "Saving code...",
   "TRANSLATION_LOADED": "Language loaded successfully",
   "AUTHENTICATED": "User authenticated",
-  "AUTHENTICATION_FAILED": "Authentication failed"
+  "AUTHENTICATION_FAILED": "Authentication failed",
+  "GAME": "Game"
 }
