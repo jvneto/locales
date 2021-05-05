@@ -427,5 +427,6 @@
   "TRANSLATION_LOADED": "Language loaded successfully",
   "AUTHENTICATED": "User authenticated",
   "AUTHENTICATION_FAILED": "Authentication failed",
-  "GAME": "Game"
+  "GAME": "Game",
+  "GAME_SPEED": "{0}x Speed"
 }
