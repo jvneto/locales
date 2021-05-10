@@ -62,7 +62,7 @@
   "IMPORTED_FILE_MESSAGE": "The file {0} was imported. All saved changes in file will be automatically loaded in program {1}.",
   "TOURNAMENT": "Tournament",
   "TUTORIAL": "Tutorial",
-  "ROUTINE_REPORT": "Last game's report",
+  "ROUTINE_REPORT": "Last game's log",
   "NEW_ATTEMPT": "Lack of Progress",
   "ADVANCE": "Advance",
   "LOGIN": "Login",
