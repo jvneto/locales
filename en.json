@@ -428,5 +428,6 @@
   "AUTHENTICATED": "User authenticated",
   "AUTHENTICATION_FAILED": "Authentication failed",
   "GAME": "Game",
-  "GAME_SPEED": "{0}x Speed"
+  "GAME_SPEED": "{0}x Speed",
+  "VICTIM_SAVED": "Victim {0} saved on attempt #{1} at {2}"
 }
