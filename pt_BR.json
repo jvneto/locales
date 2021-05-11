@@ -429,5 +429,7 @@
   "AUTHENTICATION_FAILED": "Falha na autenticação",
   "GAME": "Rotina",
   "GAME_SPEED": "Velocidade {0}x",
-  "VICTIM_SAVED": "Vítima {0} salva na {1} tentativa aos {2}"
+  "VICTIM_SAVED": "Vítima {0} salva na {1} tentativa aos {2}",
+  "EXPERIMENTAL_FEATURES": "Features experimentais",
+  "TOPBAR_INFO": "Informações na barra superior"
 }

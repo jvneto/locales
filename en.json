@@ -429,5 +429,7 @@
   "AUTHENTICATION_FAILED": "Authentication failed",
   "GAME": "Game",
   "GAME_SPEED": "{0}x Speed",
-  "VICTIM_SAVED": "Victim {0} saved on attempt #{1} at {2}"
+  "VICTIM_SAVED": "Victim {0} saved on attempt #{1} at {2}",
+  "EXPERIMENTAL_FEATURES": "Experimental features",
+  "TOPBAR_INFO": "Topbar information"
 }
