@@ -433,5 +433,7 @@
   "EXPERIMENTAL_FEATURES": "Features experimentais",
   "TOPBAR_INFO": "Informações na barra superior",
   "GAME_PAUSED": "Rotina pausada",
-  "DISCORD_RPC": "Rich Presence do Discord (requer reinicialização)"
+  "DISCORD_RPC": "Rich Presence do Discord (requer reinicialização)",
+  "PROGRAM_CREATION_SUCCESS": "Programa {0} criado com sucesso!",
+  "PROGRAM_CREATION_FAIL": "Houve uma falha ao criar o programa, certifique-se que não há outros com o mesmo nome e tente novamente mais tarde."
 }
