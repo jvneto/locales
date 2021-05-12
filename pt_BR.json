@@ -433,5 +433,5 @@
   "EXPERIMENTAL_FEATURES": "Features experimentais",
   "TOPBAR_INFO": "Informações na barra superior",
   "GAME_PAUSED": "Rotina pausada",
-  "DISCORD_RPC": "Rich Presence do Discord (Requer reinicialização)"
+  "DISCORD_RPC": "Rich Presence do Discord (requer reinicialização)"
 }
