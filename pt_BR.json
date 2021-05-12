@@ -432,5 +432,6 @@
   "VICTIM_SAVED": "Vítima {0} salva na {1} tentativa aos {2}",
   "EXPERIMENTAL_FEATURES": "Features experimentais",
   "TOPBAR_INFO": "Informações na barra superior",
-  "GAME_PAUSED": "Rotina pausada"
+  "GAME_PAUSED": "Rotina pausada",
+  "DISCORD_RPC": "Rich Presence do Discord (Requer reinicialização)"
 }
