@@ -1,6 +1,6 @@
 {
-  "ABOUT": "<b>Sobre:</b>",
-  "CREDITS": "<b>Créditos</b>:",
+  "ABOUT": "Sobre",
+  "CREDITS": "Créditos",
   "ABOUT_TEXT": "O sBotics é uma plataforma de simulação dos níveis 1 e 2 da prova prática estadual da Olimpíada Brasileira de Robótica. Na abordagem comum desta prova utiliza-se kits e robótica para simular o resgate de uma vítima em um ambiente de desastre. O sBotics oferece uma alternativa para aqueles que desejam testar seus conhecimentos de robótica e programação.",
   "FULLSCREEN": "Tela cheia e resolução:",
   "ENABLE_FULLSCREEN": "Habilitar tela cheia",
