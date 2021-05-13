@@ -435,5 +435,6 @@
   "GAME_PAUSED": "Game Paused",
   "DISCORD_RPC": "Discord Rich Presence (requires restart)",
   "PROGRAM_CREATION_SUCCESS": "Program {0} created successfully!",
-  "PROGRAM_CREATION_FAIL": "Program creation failed, make sure there are no duplicate names and try again later."
+  "PROGRAM_CREATION_FAIL": "Program creation failed, make sure there are no duplicate names and try again later.",
+  "PROGRAMS_LOADING": "Loading programs..."
 }
