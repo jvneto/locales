@@ -436,5 +436,16 @@
   "DISCORD_RPC": "Rich Presence do Discord (requer reinicialização)",
   "PROGRAM_CREATION_SUCCESS": "Programa {0} criado com sucesso!",
   "PROGRAM_CREATION_FAIL": "Houve uma falha ao criar o programa, certifique-se que não há outros com o mesmo nome e tente novamente mais tarde.",
-  "PROGRAMS_LOADING": "Carregando programas..."
+  "PROGRAMS_LOADING": "Carregando programas...",
+  "NEW_PROGRAM": "Novo Programa",
+  "CANCEL": "Cancelar",
+  "PROGRAM_DELETION_SUCCESS": "Programa deletado com sucesso",
+  "PROGRAM_DELETION_FAIL": "Programa não pode ser deletado",
+  "SAVE_COMPILE": "Salvar e enviar",
+  "FILE_CONTROL": "Controle de arquivo",
+  "EDITOR_FEATURES": "Funcionalidades do editor",
+  "UNDO_REDO": "Des/Refazer",
+  "REPLACE": "Trocar",
+  "EXTERNAL_EDITOR": "Editor externo",
+  "SWITCH_MODES": "Trocar modos"
 }

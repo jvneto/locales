@@ -58,7 +58,7 @@
   "FUNCTIONS": "Functions",
   "RECOVER": "Recover",
   "IMPORT_FILE": "Import File",
-  "EXPORT_FILE": "Export file",
+  "EXPORT_FILE": "Export File",
   "IMPORTED_FILE_MESSAGE": "The file {0} was imported. All saved changes in file will be automatically loaded in program {1}.",
   "TOURNAMENT": "Tournament",
   "TUTORIAL": "Tutorial",
@@ -436,5 +436,16 @@
   "DISCORD_RPC": "Discord Rich Presence (requires restart)",
   "PROGRAM_CREATION_SUCCESS": "Program {0} created successfully!",
   "PROGRAM_CREATION_FAIL": "Program creation failed, make sure there are no duplicate names and try again later.",
-  "PROGRAMS_LOADING": "Loading programs..."
+  "PROGRAMS_LOADING": "Loading programs...",
+  "NEW_PROGRAM": "New Program",
+  "CANCEL": "Cancel",
+  "PROGRAM_DELETION_SUCCESS": "Program deleted successfully",
+  "PROGRAM_DELETION_FAIL": "Program couldn't be deleted",
+  "SAVE_COMPILE": "Save & compile",
+  "FILE_CONTROL": "File control",
+  "EDITOR_FEATURES": "Editor features",
+  "UNDO_REDO": "Undo/Redo",
+  "REPLACE": "Replace",
+  "EXTERNAL_EDITOR": "External editor",
+  "SWITCH_MODES": "Switch modes"
 }
