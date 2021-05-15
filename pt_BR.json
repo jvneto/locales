@@ -447,5 +447,6 @@
   "UNDO_REDO": "Des/Refazer",
   "REPLACE": "Trocar",
   "EXTERNAL_EDITOR": "Editor externo",
-  "SWITCH_MODES": "Trocar modos"
+  "SWITCH_MODES": "Trocar modos",
+  "DELETE_PROGRAM": "Excluir Programa"
 }
