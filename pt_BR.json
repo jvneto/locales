@@ -448,5 +448,6 @@
   "REPLACE": "Trocar",
   "EXTERNAL_EDITOR": "Editor externo",
   "SWITCH_MODES": "Trocar modos",
-  "DELETE_PROGRAM": "Excluir Programa"
+  "DELETE_PROGRAM": "Excluir Programa",
+  "FIND": "Encontrar"
 }
