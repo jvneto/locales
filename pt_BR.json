@@ -454,5 +454,6 @@
   "CODE_EXPORTED_SUCCESSFULLY": "Código exportado com sucesso",
   "CODE_IMPORTED_SUCCESSFULLY": "Código importada com sucesso",
   "CODE_NOT_EXPORTED": "Codigo não pôde ser exportado",
-  "CODE_NOT_IMPORTED": "Codigo não pôde ser importado"
+  "CODE_NOT_IMPORTED": "Codigo não pôde ser importado",
+  "FILE_EXISTS_PATH": "Esse arquivo já existe!"
 }
