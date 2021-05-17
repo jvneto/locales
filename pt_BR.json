@@ -203,8 +203,8 @@
   "FILE_IMPORT": "Importação de arquivo",
   "STOP_IMPORT": "Parar",
   "BLOCKEDUC_NOT_FOUND": "Aplicativo BlockEduc não encontrado, certifique-se de ter a versão mais recente do sBotics instalada",
-  "BLOCKEDUC_CHECK_DUPLICATES": "Verifique se você já está com o BlockEduc aberto em seu computador.\n\n\n",
-  "BLOCKEDUC_EXTRACTION_ERROR": "BlockEduc não pôde ser extraído para programação em blocos. Abrindo o diretório para extração manual (não exclua nenhum arquivo, apenas descompacte o arquivo zip).\n\n",
+  "BLOCKEDUC_CHECK_DUPLICATES": "Verifique se você já está com o BlockEduc aberto em seu computador.",
+  "BLOCKEDUC_EXTRACTION_ERROR": "BlockEduc não pôde ser extraído para programação em blocos. Abrindo o diretório para extração manual (não exclua nenhum arquivo, apenas descompacte o arquivo zip).",
   "LAST_MODIFIED": "Última modificação:",
   "CREATED": "Criado em:",
   "DEFAULT_PROGRAM_NAME": "PROGRAMA",
@@ -449,5 +449,8 @@
   "EXTERNAL_EDITOR": "Editor externo",
   "SWITCH_MODES": "Trocar modos",
   "DELETE_PROGRAM": "Excluir Programa",
-  "FIND": "Encontrar"
+  "FIND": "Encontrar",
+  "EXTERNAL_EDITOR_ADVICE": "Este editor não foi criado para códigos grandes, considere trocar para um editor externo melhor como VSCode.",
+  "CODE_EXPORTED_SUCCESSFULLY": "Código exportado com sucesso",
+  "CODE_IMPORTED_SUCCESSFULLY": "Código importada com sucesso"
 }
