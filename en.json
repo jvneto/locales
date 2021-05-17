@@ -452,5 +452,7 @@
   "FIND": "Find",
   "EXTERNAL_EDITOR_ADVICE": "This editor wasn't meant for large codes, consider switching for an external editor such as VSCode.",
   "CODE_EXPORTED_SUCCESSFULLY": "Code exported successfully",
-  "CODE_IMPORTED_SUCCESSFULLY": "Code imported successfully"
+  "CODE_IMPORTED_SUCCESSFULLY": "Code imported successfully",
+  "CODE_NOT_EXPORTED": "Code could not be exported",
+  "CODE_NOT_IMPORTED": "Code could not be imported"
 }
