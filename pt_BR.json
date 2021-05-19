@@ -444,7 +444,7 @@
   "SAVE_COMPILE": "Salvar e enviar",
   "FILE_CONTROL": "Controle de arquivo",
   "EDITOR_FEATURES": "Funcionalidades do editor",
-  "UNDO_REDO": "Des/Refazer",
+  "UNDO": "Desfazer",
   "REPLACE": "Trocar",
   "EXTERNAL_EDITOR": "Editor externo",
   "SWITCH_MODES": "Trocar modos",
@@ -472,5 +472,6 @@
   "DOUBLE_ALTERNATIVE_DIAGONAL_CURVE": "Dupla de curvas diagonais alternativas",
   "DOUBLE_DIAGONAL_90_DEGREE_CURVE": "Dupla Diagonal-90°",
   "GAP_INTERSECTION": "Interseção de gaps",
-  "Y": "Linha com Y"
+  "Y": "Linha com Y",
+  "REDO": "Refazer"
 }

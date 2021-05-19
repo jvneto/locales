@@ -444,7 +444,7 @@
   "SAVE_COMPILE": "Save & compile",
   "FILE_CONTROL": "File control",
   "EDITOR_FEATURES": "Editor features",
-  "UNDO_REDO": "Undo/Redo",
+  "UNDO": "Undo",
   "REPLACE": "Replace",
   "EXTERNAL_EDITOR": "External editor",
   "SWITCH_MODES": "Switch modes",
@@ -472,5 +472,6 @@
   "DOUBLE_ALTERNATIVE_DIAGONAL_CURVE": "Double alternative diagonal curve",
   "DOUBLE_DIAGONAL_90_DEGREE_CURVE": "Double diagonal-90° curve",
   "GAP_INTERSECTION": "Gap intersection",
-  "Y": "Y"
+  "Y": "Y",
+  "REDO": "Redo"
 }
