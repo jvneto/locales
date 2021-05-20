@@ -475,5 +475,6 @@
   "Y": "Y",
   "REDO": "Redo",
   "FAIL_RELOAD": "Could not reload program, try saving again to avoid problems.",
-  "RELOADING": "Reloading program..."
+  "RECOVERING": "Recovering program...",
+  "RECOVER_SUCCESS": "Program recovered successfully"
 }

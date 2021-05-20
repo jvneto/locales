@@ -475,5 +475,6 @@
   "Y": "Linha com Y",
   "REDO": "Refazer",
   "FAIL_RELOAD": "Não foi possivel recarregar o programa, tente salvar novamente para evitar problemas.",
-  "RELOADING": "Recarregando programa..."
+  "RECOVERING": "Recuperando programa...",
+  "RECOVER_SUCCESS": "Programa recuperado com sucesso"
 }
