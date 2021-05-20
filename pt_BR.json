@@ -474,5 +474,5 @@
   "GAP_INTERSECTION": "Interseção de gaps",
   "Y": "Linha com Y",
   "REDO": "Refazer",
-  "FAIL_RELOAD": "Não foi possivel recarregar o programa"
+  "FAIL_RELOAD": "Não foi possivel recarregar o programa, tente salvar novamente para evitar problemas."
 }

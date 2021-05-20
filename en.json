@@ -474,5 +474,5 @@
   "GAP_INTERSECTION": "Gap intersection",
   "Y": "Y",
   "REDO": "Redo",
-  "FAIL_RELOAD": "Could not reload program"
+  "FAIL_RELOAD": "Could not reload program, try saving again to avoid problems."
 }
