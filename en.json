@@ -448,7 +448,7 @@
   "REPLACE": "Replace",
   "EXTERNAL_EDITOR": "External editor",
   "SWITCH_MODES": "Switch modes",
-  "DELETE_PROGRAM": "Delete Program",
+  "DELETE_PROGRAM": "Delete Program?",
   "FIND": "Find",
   "EXTERNAL_EDITOR_ADVICE": "This editor wasn't meant for large codes, consider switching for an external editor such as VSCode.",
   "CODE_EXPORTED_SUCCESSFULLY": "Code exported successfully",
@@ -474,5 +474,6 @@
   "GAP_INTERSECTION": "Gap intersection",
   "Y": "Y",
   "REDO": "Redo",
-  "FAIL_RELOAD": "Could not reload program, try saving again to avoid problems."
+  "FAIL_RELOAD": "Could not reload program, try saving again to avoid problems.",
+  "RELOADING": "Reloading program..."
 }

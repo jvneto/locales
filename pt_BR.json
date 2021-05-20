@@ -448,7 +448,7 @@
   "REPLACE": "Trocar",
   "EXTERNAL_EDITOR": "Editor externo",
   "SWITCH_MODES": "Trocar modos",
-  "DELETE_PROGRAM": "Excluir Programa",
+  "DELETE_PROGRAM": "Excluir Programa?",
   "FIND": "Encontrar",
   "EXTERNAL_EDITOR_ADVICE": "Este editor não foi criado para códigos grandes, considere trocar para um editor externo melhor como VSCode.",
   "CODE_EXPORTED_SUCCESSFULLY": "Código exportado com sucesso",
@@ -474,5 +474,6 @@
   "GAP_INTERSECTION": "Interseção de gaps",
   "Y": "Linha com Y",
   "REDO": "Refazer",
-  "FAIL_RELOAD": "Não foi possivel recarregar o programa, tente salvar novamente para evitar problemas."
+  "FAIL_RELOAD": "Não foi possivel recarregar o programa, tente salvar novamente para evitar problemas.",
+  "RELOADING": "Recarregando programa..."
 }
