@@ -473,5 +473,6 @@
   "DOUBLE_DIAGONAL_90_DEGREE_CURVE": "Double diagonal-90° curve",
   "GAP_INTERSECTION": "Gap intersection",
   "Y": "Y",
-  "REDO": "Redo"
+  "REDO": "Redo",
+  "FAIL_RELOAD": "Could not reload program"
 }

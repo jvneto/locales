@@ -473,5 +473,6 @@
   "DOUBLE_DIAGONAL_90_DEGREE_CURVE": "Dupla Diagonal-90°",
   "GAP_INTERSECTION": "Interseção de gaps",
   "Y": "Linha com Y",
-  "REDO": "Refazer"
+  "REDO": "Refazer",
+  "FAIL_RELOAD": "Não foi possivel recarregar o programa"
 }
