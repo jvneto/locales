@@ -201,7 +201,7 @@
   "LIVE_VICTIMS": "Live victims",
   "DEAD_VICTIMS": "Dead victims",
   "FILE_IMPORT": "File Import",
-  "STOP_IMPORT": "Stop",
+  "STOP_IMPORT": "Stop reading",
   "BLOCKEDUC_NOT_FOUND": "BlockEduc app not found, make sure you have the latest sBotics version installed",
   "BLOCKEDUC_CHECK_DUPLICATES": "Check whether or not you already have BlockEduc open on your computer.",
   "BLOCKEDUC_EXTRACTION_ERROR": "BlockEduc couldn't be extracted for block programming. Opening the directory for manual extraction (do not delete any files, just unzip the zip file).",
@@ -476,5 +476,7 @@
   "REDO": "Redo",
   "FAIL_RELOAD": "Could not reload program, try saving again to avoid problems.",
   "RECOVERING": "Recovering program...",
-  "RECOVER_SUCCESS": "Program recovered successfully"
+  "RECOVER_SUCCESS": "Program recovered successfully",
+  "CHOOSE_FILE" : "Choose file",
+  "BLOCKEDUC" : "BlockEduc"
 }
