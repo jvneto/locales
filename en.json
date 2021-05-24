@@ -482,5 +482,6 @@
   "OFFICIAL_VSCODE_EXTENSION" : "Official VSCode extension",
   "OPEN_FILE" : "Open file",
   "IMPORTED_FILE": "Imported file:",
-  "NO_FILE_LOADED": "No file imported"
+  "NO_FILE_LOADED": "No file imported",
+  "CONFIRMATION_RECOVER": "Are you sure you want to recover program?"
 }

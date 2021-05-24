@@ -482,5 +482,6 @@
   "OFFICIAL_VSCODE_EXTENSION" : "Extensão oficial VSCode",
   "OPEN_FILE" : "Abrir arquivo",
   "IMPORTED_FILE": "Arquivo importado:",
-  "NO_FILE_LOADED": "Nenhum arquivo importado"
+  "NO_FILE_LOADED": "Nenhum arquivo importado",
+  "CONFIRMATION_RECOVER": "Deseja mesmo recuperar o programa?"
 }
