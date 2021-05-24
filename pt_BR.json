@@ -480,7 +480,7 @@
   "CHOOSE_FILE" : "Escolher arquivo",
   "BLOCKEDUC" : "BlockEduc",
   "OFFICIAL_VSCODE_EXTENSION" : "Extensão oficial VSCode",
-  "OPEN_FILE_FOLDER" : "Abrir pasta do arquivo",
+  "OPEN_FILE" : "Abrir arquivo",
   "IMPORTED_FILE": "Arquivo importado:",
   "NO_FILE_LOADED": "Nenhum arquivo importado"
 }
