@@ -481,5 +481,6 @@
   "BLOCKEDUC" : "BlockEduc",
   "OFFICIAL_VSCODE_EXTENSION" : "Official VSCode extension",
   "OPEN_FILE_FOLDER" : "Open file folder",
-  "IMPORTED_FILE": "Imported file:"
+  "IMPORTED_FILE": "Imported file:",
+  "NO_FILE_LOADED": "No file imported"
 }
