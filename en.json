@@ -156,7 +156,7 @@
   "PROGRAMMING_IN": "You are coding in",
   "PROGRAM_HERE": "Program here...",
   "START_PROGRAMMING": "Start programming",
-  "BLOCKEDUC_DISCLAIMER": "To program in BlockEduc, choose the program you want to modify or create a new one. Then, click on the \"Start programming\" button and the blockeduc editor will open on your computer.\n\n\nYou will need to compile your program before testing.",
+  "BLOCKEDUC_DISCLAIMER": "To program in BlockEduc click on the \"Start programming\" button and the blockeduc editor will open on your computer. You will need to compile your program before testing.",
   "ARENA_EDITOR": "Arena Editor",
   "TOOLS": "Tools",
   "FIXED_RESCUE_ZONE_CHECKPOINT": "Fixed Rescue Zone checkpoint",
