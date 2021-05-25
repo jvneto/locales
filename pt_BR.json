@@ -483,5 +483,7 @@
   "OPEN_FILE" : "Abrir arquivo",
   "IMPORTED_FILE": "Arquivo importado:",
   "NO_FILE_LOADED": "Nenhum arquivo importado",
-  "CONFIRMATION_RECOVER": "Deseja mesmo recuperar o programa?"
+  "CONFIRMATION_RECOVER": "Deseja mesmo recuperar o programa?",
+  "SET_MARKABLE": "Fazer peça marcável",
+  "SET_UNMARKABLE": "Fazer peça não-marcável"
 }
