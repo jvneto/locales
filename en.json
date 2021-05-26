@@ -485,5 +485,6 @@
   "NO_FILE_LOADED": "No file imported",
   "CONFIRMATION_RECOVER": "Are you sure you want to recover program?",
   "SET_MARKABLE": "Set tile as markable",
-  "SET_UNMARKABLE": "Set tile as unmarkable"
+  "SET_UNMARKABLE": "Set tile as unmarkable",
+  "PROGRAMS_LOADED": "User programs loaded"
 }

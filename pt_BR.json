@@ -485,5 +485,6 @@
   "NO_FILE_LOADED": "Nenhum arquivo importado",
   "CONFIRMATION_RECOVER": "Deseja mesmo recuperar o programa?",
   "SET_MARKABLE": "Fazer peça marcável",
-  "SET_UNMARKABLE": "Fazer peça não-marcável"
+  "SET_UNMARKABLE": "Fazer peça não-marcável",
+  "PROGRAMS_LOADED": "Programas do usuário carregados"
 }
