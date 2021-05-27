@@ -487,5 +487,6 @@
   "SET_MARKABLE": "Set tile as markable",
   "SET_UNMARKABLE": "Set tile as unmarkable",
   "PROGRAMS_LOADED": "User programs loaded",
-  "PROGRAMS_FAILED": "User programs failed to load"
+  "PROGRAMS_FAILED": "User programs failed to load",
+  "NO_TEAM_LOADED": "No team loaded"
 }

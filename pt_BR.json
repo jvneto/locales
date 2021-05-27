@@ -487,5 +487,6 @@
   "SET_MARKABLE": "Fazer peça marcável",
   "SET_UNMARKABLE": "Fazer peça não-marcável",
   "PROGRAMS_LOADED": "Programas do usuário carregados",
-  "PROGRAMS_FAILED": "Programas do usuário falharam em carregar"
+  "PROGRAMS_FAILED": "Programas do usuário falharam em carregar",
+  "NO_TEAM_LOADED": "Nenhuma equipe carregada"
 }
