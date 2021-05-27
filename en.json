@@ -84,7 +84,7 @@
   "ROUTINE_REPORT_DESCRIPTION": "To view the report, it's necessary to run your code at least once.​",
   "SENSOR_READINGS": "Sensor Readings",
   "PERFORM_SCAN": "Press shift to perform the scan",
-  "CBOTICS_TOS": "This is the cBotics competition module.\n\nTo continue, please make sure you are participating in an active cBotics competition and have a generated a participation code, as well as making sure you have saved, compiled and tested your program as many times as you think is necessary before participating\n\nBy continuing you agree to the terms of the competition in which you entered.\n\nGood competition!",
+  "CBOTICS_TOS": "This is the cBotics competition module.\n\nTo continue, please make sure you are participating in an active cBotics competition and have a generated a participation code, as well as making sure you have saved, compiled and tested your program as many times as you think is necessary before participating.\n\nBy continuing you agree to the terms of the competition in which you entered.\n\nGood competition!",
   "PARTICIPATION_CODE": "Paticipation code...",
   "TOC_AGREE": "Accept and compete",
   "BACK": "Back",
