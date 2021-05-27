@@ -86,7 +86,7 @@
   "PERFORM_SCAN": "Aperte shift para fazer a leitura",
   "CBOTICS_TOS": "Esse é o módulo de competições cBotics.\nPara continuar, certifique-se que está participando de uma competição ativa em  http://cbotics.weduc.natalnet.br. Em seguida gere o seu código de competição para a rodada que deseja participar e cole no espaço abaixo. Certifique-se de já ter salvado, compilado e testado seu programa quantas vezes julgar necessário antes de participar da rodada oficial.\n\nDepois de dar continuidade e confirmar os dados no passo seguinte, não será possível reverter esta operação.\n\nAo continuar você aceita os termos da competição em que se inscreveu. Não nos responsabilizamos pelo mal uso do sistema ou por desclassificações automáticas ocasionadas no sistema cBotics por plágio de códigos, tentativas de burlar os sistemas ou uso de conta pessoal por terceiros.\n\nBoa competição!",
   "PARTICIPATION_CODE": "Código de competição...",
-  "TOC_AGREE": "Eu aceito os Termos de Competição",
+  "TOC_AGREE": "Aceitar e competir",
   "BACK": "Voltar",
   "LIT_CANDLE": "Vela acesa",
   "UNLIT_CANDLE": "Vela apagada",
