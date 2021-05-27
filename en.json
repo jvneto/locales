@@ -489,5 +489,5 @@
   "PROGRAMS_LOADED": "User programs loaded",
   "PROGRAMS_FAILED": "User programs failed to load",
   "NO_TEAM_LOADED": "No team loaded",
-  "COMPILE_ONCE": "You have to compile once in order to participate in a contest"
+  "COMPILE_ONCE": "You have to compile your code at least once to participate in a tournament"
 }
