@@ -488,5 +488,6 @@
   "SET_UNMARKABLE": "Set tile as unmarkable",
   "PROGRAMS_LOADED": "User programs loaded",
   "PROGRAMS_FAILED": "User programs failed to load",
-  "NO_TEAM_LOADED": "No team loaded"
+  "NO_TEAM_LOADED": "No team loaded",
+  "COMPILE_ONCE": "You have to compile once in order to participate in a contest"
 }
