@@ -205,7 +205,7 @@
   "BLOCKEDUC_NOT_FOUND": "Aplicativo BlockEduc não encontrado, certifique-se de ter a versão mais recente do sBotics instalada",
   "BLOCKEDUC_CHECK_DUPLICATES": "Verifique se você já está com o BlockEduc aberto em seu computador.",
   "BLOCKEDUC_EXTRACTION_ERROR": "BlockEduc não pôde ser extraído para programação em blocos. Abrindo o diretório para extração manual (não exclua nenhum arquivo, apenas descompacte o arquivo zip).",
-  "LAST_MODIFIED": "Última modificação: {0}",
+  "LAST_MODIFIED": "Última modificação: ",
   "CREATED": "Criado em:",
   "DEFAULT_PROGRAM_NAME": "PROGRAMA",
   "COMPILING": "Compilando...",
