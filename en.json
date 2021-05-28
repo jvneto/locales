@@ -282,7 +282,7 @@
   "CBOTICS_ERROR_CONNECTION": "We were unable to connect to our servers. Try again later.",
   "ERROR": "Error",
   "ADJUSTMENTS_TIME": "{0} of adjustments",
-  "COMPETING_MESSAGE": "You are now competing and have {0}  to change your robot and place checkpoints if necessary. Good competition!",
+  "COMPETING_MESSAGE": "You are now competing and have {0} to change your robot and place checkpoints if necessary. Good competition!",
   "CLIENT_ERROR": "A client-side error occured and this round was terminated prematurely!\nDetails:\n",
   "SUBMITTING_RESULTS": "Submitting your results... This may take a while.",
   "UNABLE_TO_SEND": "We were unable to send your result to our servers :(\nWould you like to try again?\n\n(Proof of participation: {0})",
