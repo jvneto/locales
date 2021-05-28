@@ -285,7 +285,7 @@
   "COMPETING_MESSAGE": "Agora você está competindo e tem {0} para mudar seu robô e colocar marcadores, se necessário. Boa competição!",
   "CLIENT_ERROR": "Ocorreu um erro no lado do cliente e esta rodada foi encerrada antes do tempo!\nDetalhes:\n",
   "SUBMITTING_RESULTS": "Enviando seus resultados... Isso pode demorar um pouco.",
-  "UNABLE_TO_SEND": "Não foi possível enviar seu resultado para nossos servidores :(\nVocê gostaria de tentar de novo?\n\n(Prova de participação: {0})",
+  "UNABLE_TO_SEND": "Não foi possível enviar seu resultado para nossos servidores :(\nVocê gostaria de tentar de novo?)",
   "UNEXPECTED_SBOTICS_ERROR": "Erro inesperado no sBotics. :(\nPor favor entre em contato com os organizadores de sua competição.",
   "RESULT_SENT_SUCCESSFULLY": "Seu resultado foi enviado e pode ser visualizado no site cBotics.",
   "TRY_AGAIN": "Tentar novamente",
