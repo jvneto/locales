@@ -493,5 +493,6 @@
   "CURRENT_ROBOT": "Current robot:", 
   "CBOTICS_ERROR_PERMISSION": "This account does not belong to this participation code's team.",
   "STOP_COMPETING": "Stop competing",
-  "UNABLE_WHILE_COMPETING": "This action is not permitted while competing."
+  "UNABLE_WHILE_COMPETING": "This action is not permitted while competing.",
+  "UNABLE_WHILE_PLAYING": "This action is not permitted while playing."
 }
