@@ -491,5 +491,6 @@
   "NO_TEAM_LOADED": "Nenhuma equipe carregada",
   "COMPILE_ONCE": "É necessário compilar seu código pelo menos uma vez para participar da competição.",
   "CURRENT_ROBOT": "Meu robô", 
-  "CBOTICS_ERROR_PERMISSION": "Essa conta não pertence à equipe desse código de participação."
+  "CBOTICS_ERROR_PERMISSION": "Essa conta não pertence à equipe desse código de participação.",
+  "STOP_COMPETING": "Parar de competir"
 }
