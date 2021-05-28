@@ -492,5 +492,6 @@
   "COMPILE_ONCE": "You have to compile your code at least once to participate in a tournament.",
   "CURRENT_ROBOT": "Current robot", 
   "CBOTICS_ERROR_PERMISSION": "This account does not belong to this participation code's team.",
-  "STOP_COMPETING": "Stop competing"
+  "STOP_COMPETING": "Stop competing",
+  "UNABLE_WHILE_COMPETING": "This action is not permitted while competing."
 }
