@@ -489,5 +489,6 @@
   "PROGRAMS_LOADED": "Programas do usuário carregados",
   "PROGRAMS_FAILED": "Programas do usuário falharam em carregar",
   "NO_TEAM_LOADED": "Nenhuma equipe carregada",
-  "COMPILE_ONCE": "É necessário compilar seu código pelo menos uma vez para participar da competição."
+  "COMPILE_ONCE": "É necessário compilar seu código pelo menos uma vez para participar da competição.",
+  "CURRENT_ROBOT": "Meu robô"
 }
