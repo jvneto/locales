@@ -490,7 +490,7 @@
   "PROGRAMS_FAILED": "Programas do usuário falharam em carregar",
   "NO_TEAM_LOADED": "Nenhuma equipe carregada",
   "COMPILE_ONCE": "É necessário compilar seu código pelo menos uma vez para participar da competição.",
-  "CURRENT_ROBOT": "Meu robô", 
+  "CURRENT_ROBOT": "Meu robô:", 
   "CBOTICS_ERROR_PERMISSION": "Essa conta não pertence à equipe desse código de participação.",
   "STOP_COMPETING": "Parar de competir",
   "UNABLE_WHILE_COMPETING": "Essa ação não é permitida enquanto se compete."
