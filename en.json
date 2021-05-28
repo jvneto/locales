@@ -490,5 +490,6 @@
   "PROGRAMS_FAILED": "User programs failed to load",
   "NO_TEAM_LOADED": "No team loaded",
   "COMPILE_ONCE": "You have to compile your code at least once to participate in a tournament.",
-  "CURRENT_ROBOT": "Current robot"
+  "CURRENT_ROBOT": "Current robot", 
+  "CBOTICS_ERROR_PERMISSION": "This account does not belong to this participation code's team."
 }
