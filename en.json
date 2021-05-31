@@ -219,7 +219,7 @@
   "SOMETHING_WRONG": "There's something wrong with your code. Tip: Try verifying the usage of functions with inadequate returns or innapropriate structures.",
   "COMPILATION_ERROR_DETAILED": "Error on line {0}.  Message: \"{1}\". Code: {2}.",
   "COMPILED_SUCCESSFULLY": "Program compiled successfully!",
-  "KEYWORD_VIOLATION": "Error: use of the {0} reserved word. Tip: perform a check on the names of variables and tasks.",
+  "KEYWORD_VIOLATION": "Error: use of the \"{0}\" reserved word. Tip: perform a check on the names of variables and tasks.",
   "ROBOT_AMBULANCE": "Rescuelance",
   "ROBOT_ROVER": "SPC-Rover",
   "ROBOT_FIRETRUCK": "Firetrekker",

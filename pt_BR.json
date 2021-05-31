@@ -219,7 +219,7 @@
   "SOMETHING_WRONG": "Há algo errado com seu código. Dica: Tente verificar o uso de funções com retornos inadequados ou estruturas inadequadas.",
   "COMPILATION_ERROR_DETAILED": "Erro na linha {0}.  Mensagem: \"{1}\". Código: {2}.",
   "COMPILED_SUCCESSFULLY": "Programa compilado com sucesso!",
-  "KEYWORD_VIOLATION": "Erro: uso da palavra reservada {0}. Dica: verifique os nomes das variáveis ​​e tarefas.",
+  "KEYWORD_VIOLATION": "Erro: uso da palavra reservada \"{0}\". Dica: verifique os nomes das variáveis ​​e tarefas.",
   "ROBOT_AMBULANCE": "Robô 1",
   "ROBOT_ROVER": "Robô 2",
   "ROBOT_FIRETRUCK": "Robô 3",
