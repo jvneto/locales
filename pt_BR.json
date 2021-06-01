@@ -494,5 +494,21 @@
   "CBOTICS_ERROR_PERMISSION": "Essa conta não pertence à equipe desse código de participação.",
   "STOP_COMPETING": "Parar de competir",
   "UNABLE_WHILE_COMPETING": "Essa ação não é permitida enquanto se compete.",
-  "UNABLE_WHILE_PLAYING": "Essa ação não é permitida enquanto se testa."
+  "UNABLE_WHILE_PLAYING": "Essa ação não é permitida enquanto se testa.",
+  "NINETY_DEGRESS_WITH_SPEED_BUMP": "Ninety degress with speed bump",
+  "DIAGONAL_CUVE_WITH_SPEED_BUMP": "Diagonal cuve with speed bump",
+  "ALTERNATIVE_DIAGONAL_CUVE_WITH_SPEED_BUMP": "Alternative diagonal cuve with speed bump",
+  "SIMPLE_CURVE_WITH_SPEED_BUMP": "Simple curve with speed bump",
+  "DOUBLE_DIAGONAL_SIMPLE_CURVE": "Double diagonal simple curve",
+  "LARGE_MULTIPLE_NINETY_DEGREE_CURVES": "Large multiple ninety degree curves",
+  "LARGE_GAP": "Large gap",
+  "OBSTACLE_ON_THE_EDGE": "Obstacle on the edge",
+  "OBSTACLE_AND_GAP": "Obstacle and gap",
+  "EXTRA_MILD_ZIG_ZAG": "Extra mild zig zag",
+  "LARGE_ZIG_ZAG": "Large zig zag",
+  "MULTI_ZIG_ZAG": "Multi zig zag",
+  "UNILATERAL_90_DEGREE_ZIG_ZAG_WITH_SPEED_BUMP": "Unilateral 90 degree zig zag with speed bump",
+  "GAP_INTERSECTION_WITH_SPEED_BUMP": "Gap intersection with speed bump",
+  "V_WITH_SPEED_BUMP": "V with speed bump",
+  "NINETY_DEGREE_ZIG_ZAG_WITH_SPEED_BUMPS": "Ninety degree zig zag with speed bumps"
 }
