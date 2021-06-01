@@ -282,7 +282,7 @@
   "CBOTICS_ERROR_CONNECTION": "Não conseguimos nos conectar com nossos servidores. Tente novamente mais tarde.",
   "ERROR": "Erro",
   "ADJUSTMENTS_TIME": "{0} de ajustes",
-  "COMPETING_MESSAGE": "Agora você está competindo e tem {0} para mudar seu robô e colocar marcadores, se necessário. Boa competição!",
+  "COMPETING_MESSAGE": "Agora você está competindo e tem {0} para colocar marcadores, se necessário. Boa competição!",
   "CLIENT_ERROR": "Ocorreu um erro no lado do cliente e esta rodada foi encerrada antes do tempo!\nDetalhes:\n",
   "SUBMITTING_RESULTS": "Enviando seus resultados... Isso pode demorar um pouco.",
   "UNABLE_TO_SEND": "Não foi possível enviar seu resultado para nossos servidores :(\nVocê gostaria de tentar de novo?)",
