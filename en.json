@@ -510,5 +510,6 @@
   "UNILATERAL_90_DEGREE_ZIG_ZAG_WITH_SPEED_BUMP": "Unilateral 90 degree zig zag with speed bump",
   "GAP_INTERSECTION_WITH_SPEED_BUMP": "Gap intersection with speed bump",
   "V_WITH_SPEED_BUMP": "V with speed bump",
-  "NINETY_DEGREE_ZIG_ZAG_WITH_SPEED_BUMPS": "Ninety degree zig zag with speed bumps"
+  "NINETY_DEGREE_ZIG_ZAG_WITH_SPEED_BUMPS": "Ninety degree zig zag with speed bumps",
+  "CLEAR_CACHE": "Clear cache"
 }
