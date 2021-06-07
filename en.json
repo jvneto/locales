@@ -512,5 +512,8 @@
   "V_WITH_SPEED_BUMP": "V with speed bump",
   "NINETY_DEGREE_ZIG_ZAG_WITH_SPEED_BUMPS": "Ninety degree zig zag with speed bumps",
   "CLEAR_CACHE": "Clear cache",
-  "ARE_YOU_SURE_QUIT": "Are you sure you want to quit sBotics?"
+  "ARE_YOU_SURE_QUIT": "Are you sure you want to quit sBotics?",
+  "LEFT_RESCUE_ZONE_ENTRANCE": "Left Rescue Zone entrance",
+  "RIGHT_RESCUE_ZONE_ENTRANCE": "Right Rescue Zone entrance",
+  "RESCUE_ZONE_EXIT": "Rescue Zone exit"
 }
