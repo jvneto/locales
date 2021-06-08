@@ -519,5 +519,6 @@
   "RESCUE_ZONE_EXIT": "Saída da sala de resgate",
   "MAX_TIME_IF_INCOMPLETE": "Tempo máximo se incompleto",
   "SAVE_EXTERNALLY_AUTOMATICALLY": "Salvar programa importado automaticamente",
-  "STRAIGHT_LINE_STARTING_TILE": "Ladrilho de início com reta"
+  "STRAIGHT_LINE_STARTING_TILE": "Ladrilho de início com reta",
+  "IMPORTABLE": "Importável"
 }

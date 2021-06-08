@@ -519,5 +519,6 @@
   "RESCUE_ZONE_EXIT": "Rescue Zone exit",
   "MAX_TIME_IF_INCOMPLETE": "Max. Time if incomplete",
   "SAVE_EXTERNALLY_AUTOMATICALLY": "Save imported program automatically",
-  "STRAIGHT_LINE_STARTING_TILE": "Straight line starting tile"
+  "STRAIGHT_LINE_STARTING_TILE": "Straight line starting tile",
+  "IMPORTABLE": "Importable"
 }
