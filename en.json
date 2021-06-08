@@ -517,5 +517,6 @@
   "LEFT_RESCUE_ZONE_ENTRANCE": "Left Rescue Zone entrance",
   "RIGHT_RESCUE_ZONE_ENTRANCE": "Right Rescue Zone entrance",
   "RESCUE_ZONE_EXIT": "Rescue Zone exit",
-  "MAX_TIME_IF_INCOMPLETE": "Max. Time if incomplete"
+  "MAX_TIME_IF_INCOMPLETE": "Max. Time if incomplete",
+  "SAVE_EXTERNALLY_AUTOMATICALLY": "Save imported program automatically"
 }

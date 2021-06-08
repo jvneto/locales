@@ -517,5 +517,6 @@
   "LEFT_RESCUE_ZONE_ENTRANCE": "Entrada esquerda para sala de resgate",
   "RIGHT_RESCUE_ZONE_ENTRANCE": "Entrada direita para sala de resgate",
   "RESCUE_ZONE_EXIT": "Saída da sala de resgate",
-  "MAX_TIME_IF_INCOMPLETE": "Tempo máximo se incompleto"
+  "MAX_TIME_IF_INCOMPLETE": "Tempo máximo se incompleto",
+  "SAVE_EXTERNALLY_AUTOMATICALLY": "Salvar programa importado automaticamente"
 }
