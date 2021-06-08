@@ -282,6 +282,7 @@
   "CBOTICS_ERROR_CONNECTION": "We were unable to connect to our servers. Try again later.",
   "ERROR": "Error",
   "ADJUSTMENTS_TIME": "{0} of adjustments",
+  "COMPETING_NO_ADJUSTMENTS_MESSAGE": "You are now competing. Good competition!",
   "COMPETING_MESSAGE": "You are now competing and have {0} to place checkpoints if necessary. Good competition!",
   "CLIENT_ERROR": "A client-side error occured and this round was terminated prematurely!\nDetails:\n",
   "SUBMITTING_RESULTS": "Submitting your results... This may take a while.",
