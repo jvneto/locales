@@ -520,5 +520,6 @@
   "MAX_TIME_IF_INCOMPLETE": "Max. Time if incomplete",
   "SAVE_EXTERNALLY_AUTOMATICALLY": "Save imported program automatically",
   "STRAIGHT_LINE_STARTING_TILE": "Straight line starting tile",
-  "IMPORTABLE": "Importable"
+  "ADVANCED_FEATURES_EDITOR_KEYWWORD": "Keyword",
+  "ADVANCED_FEATURES": "Advanced features"
 }
