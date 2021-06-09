@@ -521,5 +521,7 @@
   "SAVE_EXTERNALLY_AUTOMATICALLY": "Save imported program automatically",
   "STRAIGHT_LINE_STARTING_TILE": "Straight line starting tile",
   "ADVANCED_FEATURES_EDITOR_KEYWWORD": "Primary",
-  "ADVANCED_FEATURES": "Advanced features"
+  "ADVANCED_FEATURES": "Advanced features",
+  "ADD_RESCUE_KIT": "Add Rescue Kit",
+  "REMOVE_RESCUE_KIT": "Remove Rescue Kit"
 }
