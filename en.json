@@ -526,5 +526,6 @@
   "REMOVE_RESCUE_KIT": "Remove Rescue Kit",
   "CONCATENATION_ERROR": "Error while concatenating programs.",
   "CANT_IMPORT_PRIMARY_ERROR": "Cannot import [{0}] programs",
-  "AUXILIARY_PROGRAM_NAME": "[{0}] Auxiliary"
+  "AUXILIARY_PROGRAM_NAME": "[{0}] Auxiliary",
+  "LANGUAGE_MISHMASH_ERROR": "Cannot import program of a different language"
 }
