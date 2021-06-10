@@ -527,5 +527,5 @@
   "CONCATENATION_ERROR": "Erro ao concatenar programas.",
   "CANT_IMPORT_PRIMARY_ERROR": "Não é possível importar programas [{0}]",
   "AUXILIARY_PROGRAM_NAME": "Auxiliar [{0}]",
-  "LANGUAGE_MISHMASH_ERROR": "Não é possível importar programa de outro idioma"
+  "CODE_CONCATENATION": "Ativar concatenação de código"
 }
