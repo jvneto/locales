@@ -525,5 +525,6 @@
   "ADD_RESCUE_KIT": "Add Rescue Kit",
   "REMOVE_RESCUE_KIT": "Remove Rescue Kit",
   "CONCATENATION_ERROR": "Error while concatenating programs.",
-  "CANT_IMPORT_PRIMARY_ERROR": "Cant import [{0}] programs"
+  "CANT_IMPORT_PRIMARY_ERROR": "Cannot import [{0}] programs",
+  "AUXILIARY_PROGRAM_NAME": "[{0}] Auxiliary ({1})"
 }
