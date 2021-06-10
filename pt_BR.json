@@ -520,11 +520,11 @@
   "MAX_TIME_IF_INCOMPLETE": "Tempo máximo se incompleto",
   "SAVE_EXTERNALLY_AUTOMATICALLY": "Salvar programa importado automaticamente",
   "STRAIGHT_LINE_STARTING_TILE": "Ladrilho de início com reta",
-  "PRIMARY_CODE_KEYWWORD": "Primario",
+  "AUXILIARY_PROGRAM_ERROR": "Esse programa é apenas para Debug interno do sBotics. Alterações <b>NÃO</b> não serão salvas corretamente.",
   "ADVANCED_FEATURES": "Funções avançadas",
   "ADD_RESCUE_KIT": "Adicionar Kit de Resgate",
   "REMOVE_RESCUE_KIT": "Remover Kit de Resgate",
   "CONCATENATION_ERROR": "Erro ao concatenar programas.",
   "CANT_IMPORT_PRIMARY_ERROR": "Não é possível importar programas [{0}]",
-  "AUXILIARY_PROGRAM_NAME": "Auxiliar [{0}] ({1})"
+  "AUXILIARY_PROGRAM_NAME": "Auxiliar [{0}]"
 }
