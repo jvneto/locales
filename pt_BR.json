@@ -520,7 +520,7 @@
   "MAX_TIME_IF_INCOMPLETE": "Tempo máximo se incompleto",
   "SAVE_EXTERNALLY_AUTOMATICALLY": "Salvar programa importado automaticamente",
   "STRAIGHT_LINE_STARTING_TILE": "Ladrilho de início com reta",
-  "AUXILIARY_PROGRAM_ERROR": "Esse programa é apenas para Debug interno do sBotics. Alterações <b>NÃO</b> não serão salvas corretamente.",
+  "AUXILIARY_PROGRAM_ERROR": "Esse programa é apenas para uso interno/Debug. Alterações <b>NÃO</b> não serão salvas corretamente.",
   "ADVANCED_FEATURES": "Funções avançadas",
   "ADD_RESCUE_KIT": "Adicionar Kit de Resgate",
   "REMOVE_RESCUE_KIT": "Remover Kit de Resgate",

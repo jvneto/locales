@@ -520,7 +520,7 @@
   "MAX_TIME_IF_INCOMPLETE": "Max. Time if incomplete",
   "SAVE_EXTERNALLY_AUTOMATICALLY": "Save imported program automatically",
   "STRAIGHT_LINE_STARTING_TILE": "Straight line starting tile",
-  "AUXILIARY_PROGRAM_ERROR": "This program is for internal Debug purposes only. Changes <b>WON'T</b> be saved properly.",
+  "AUXILIARY_PROGRAM_ERROR": "This program is for internal/debug purposes only. Changes <b>WON'T</b> be saved properly.",
   "ADVANCED_FEATURES": "Advanced features",
   "ADD_RESCUE_KIT": "Add Rescue Kit",
   "REMOVE_RESCUE_KIT": "Remove Rescue Kit",
