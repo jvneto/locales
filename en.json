@@ -524,6 +524,6 @@
   "ADVANCED_FEATURES": "Advanced features",
   "ADD_RESCUE_KIT": "Add Rescue Kit",
   "REMOVE_RESCUE_KIT": "Remove Rescue Kit",
-  "CONCATENATION_ERROR": "Error while concatenating files.",
-  "CANT_IMPORT_PRIMARY_ERROR": "Cant import [{0}] files"
+  "CONCATENATION_ERROR": "Error while concatenating programs.",
+  "CANT_IMPORT_PRIMARY_ERROR": "Cant import [{0}] programs"
 }
