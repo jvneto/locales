@@ -196,7 +196,7 @@
   "TOGGLE_ROUTINE_POSITIONING": "Change position in-game",
   "TOGGLE_DISTANCE_BASED_CHECKPOINTS": "Distance-based checkpoint scoring",
   "TOGGLE_ROBOCUPJR_SCORING": "Standard RoboCupJr scoring",
-  "TOGGLE_RESCUE_KIT": "Enable rescue kit",
+  "TOGGLE_RESCUE_KIT": "Level 1 rescue kit",
   "TOGGLE_L2_RESCUE_KIT": "Level 2 rescue kit",
   "LIVE_VICTIMS": "Live victims",
   "DEAD_VICTIMS": "Dead victims",
