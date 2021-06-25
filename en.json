@@ -268,7 +268,7 @@
   "FORKLIFT_PLATFORM_INCLINATION": "Perceived forklift's platform inclination:",
   "TRUE": "True",
   "FALSE": "False",
-  "POINTS": "({0} points)",
+  "QUANTITY_POINTS": "({0} points)",
   "REPORT_LEVEL_1_RESCUE_KIT": "<b>Level 1 Rescue Point\n</b>",
   "REPORT_LEVEL_2_RESCUE_KIT": "<b>Level 2 Rescue Point\n</b>",
   "REPORT_LEVEL_1_EVACUATION_POINT": "<b>Level 1 Rescue Kit\n</b>",
@@ -526,5 +526,8 @@
   "REMOVE_RESCUE_KIT": "Remove Rescue Kit",
   "CONCATENATION_ERROR": "Error while concatenating programs.",
   "CANT_IMPORT_PRIMARY_ERROR": "Cannot import [{0}] programs",
-  "AUXILIARY_PROGRAM_NAME": "[{0}] Auxiliary"
+  "AUXILIARY_PROGRAM_NAME": "[{0}] Auxiliary",
+  "ADDITIONAL_INFO": "Additional Info",
+  "COMPLETED": "completed",
+  "POINTS": "points"
 }

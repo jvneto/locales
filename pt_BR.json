@@ -268,13 +268,13 @@
   "FORKLIFT_PLATFORM_INCLINATION": "Inclinação da plataforma:",
   "TRUE": "Verdadeiro",
   "FALSE": "Falso",
-  "POINTS": "({0} pontos)",
+  "QUANTITY_POINTS": "({0} pontos)",
   "REPORT_LEVEL_1_RESCUE_KIT": "<b>Área de Resgate Nível 1\n</b>",
   "REPORT_LEVEL_2_RESCUE_KIT": "<b>Área de Resgate Nível 2\n</b>",
   "REPORT_LEVEL_1_EVACUATION_POINT": "<b>Kit de Resgate Nível 1\n</b>",
   "REPORT_LEVEL_2_EVACUATION_POINT": "<b>Kit de Resgate Nível 2\n</b>",
   "ACTUATOR": "Atuador",
-  "COURSE_TRIES": "#{0} ª tentativa do percurso {1} iniciada em {2}",
+  "COURSE_TRIES": "#{0}ª tentativa do percurso {1} iniciada em {2}",
   "CBOTICS_ERROR_403": "Código não encontrado ou já usado. Certifique-se de que você não digitou o código errado.",
   "CBOTICS_ERROR_500": "Erro inesperado do servidor. Tente mais tarde.",
   "CBOTICS_ERROR_429": "Você tentou muitas vezes, tente novamente mais tarde.",
@@ -526,5 +526,8 @@
   "REMOVE_RESCUE_KIT": "Remover Kit de Resgate",
   "CONCATENATION_ERROR": "Erro ao concatenar programas.",
   "CANT_IMPORT_PRIMARY_ERROR": "Não é possível importar programas [{0}]",
-  "AUXILIARY_PROGRAM_NAME": "Auxiliar [{0}]"
+  "AUXILIARY_PROGRAM_NAME": "Auxiliar [{0}]",
+  "ADDITIONAL_INFO": "Informação adicional",
+  "COMPLETED": "completado(a)",
+  "POINTS": "pontos"
 }
