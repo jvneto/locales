@@ -529,5 +529,7 @@
   "AUXILIARY_PROGRAM_NAME": "[{0}] Auxiliary",
   "ADDITIONAL_INFO": "Additional Info",
   "COMPLETED": "completed",
-  "POINTS": "points"
+  "POINTS": "points",
+  "LIVE_VICTIM_SAVED": "Live victim saved",
+  "DEAD_VICTIM_SAVED": "Dead victim saved"
 }
