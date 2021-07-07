@@ -531,5 +531,6 @@
   "COMPLETED": "completado(a)",
   "POINTS": "pontos",
   "LIVE_VICTIM_SAVED": "Vítima viva resgatada",
-  "DEAD_VICTIM_SAVED": "Vítima morta resgatada"
+  "DEAD_VICTIM_SAVED": "Vítima morta resgatada",
+  "REACHED_CHECKPOINT": "Marcador alcançado"
 }
