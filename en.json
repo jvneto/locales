@@ -531,5 +531,7 @@
   "COMPLETED": "completed",
   "POINTS": "points",
   "LIVE_VICTIM_SAVED": "Live victim saved",
-  "DEAD_VICTIM_SAVED": "Dead victim saved"
+  "DEAD_VICTIM_SAVED": "Dead victim saved",
+  "REACHED_CHECKPOINT": "Checkpoint reached"
+
 }
