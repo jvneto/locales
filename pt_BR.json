@@ -532,5 +532,7 @@
   "POINTS": "pontos",
   "LIVE_VICTIM_SAVED": "Vítima viva resgatada",
   "DEAD_VICTIM_SAVED": "Vítima morta resgatada",
-  "REACHED_CHECKPOINT": "Marcador alcançado"
+  "REACHED_CHECKPOINT": "Marcador alcançado",
+  "USER_REQUESTED_NEW_ATTEMPT": "Nova tentativa solicitada",
+  "USER_GAVE_UP": "Desistência solicitada"
 }
