@@ -534,5 +534,6 @@
   "DEAD_VICTIM_SAVED": "Dead victim saved",
   "REACHED_CHECKPOINT": "Checkpoint reached",
   "USER_REQUESTED_NEW_ATTEMPT": "User manually called Lack of Progress",
-  "USER_GAVE_UP": "User gave up"
+  "USER_GAVE_UP": "User gave up",
+  "REACHED_DEADEND": "Deadend reached"
 }
