@@ -288,7 +288,7 @@
   "SUBMITTING_RESULTS": "Enviando seus resultados... Isso pode demorar um pouco.",
   "UNABLE_TO_SEND": "Não foi possível enviar seu resultado para nossos servidores :(\nVocê gostaria de tentar de novo?)",
   "UNEXPECTED_SBOTICS_ERROR": "Erro inesperado no sBotics. :(\nPor favor entre em contato com os organizadores de sua competição.",
-  "RESULT_SENT_SUCCESSFULLY": "Seu resultado foi enviado e pode ser visualizado no site cBotics.",
+  "RESULT_SENT_SUCCESSFULLY": "Seu resultado foi enviado e pode ser visualizado no site cBotics. Verifique o Relatório de Rotina abaixo para confirmar se está tudo correto ou se deseja disputar a pontuação dada:",
   "TRY_AGAIN": "Tentar novamente",
   "HEADER_IMPORTANT": "<b>Importante</b>",
   "HEADER_TILESETS": "<b>Conjuntos</b>",

@@ -288,7 +288,7 @@
   "SUBMITTING_RESULTS": "Submitting your results... This may take a while.",
   "UNABLE_TO_SEND": "We were unable to send your result to our servers :(\nWould you like to try again?)",
   "UNEXPECTED_SBOTICS_ERROR": "Unexpected sBotics error. :(\nPlease contact the organizers of your competition.",
-  "RESULT_SENT_SUCCESSFULLY": "Your result has been sent and can be viewed on the cBotics website.",
+  "RESULT_SENT_SUCCESSFULLY": "Your result has been sent and can be viewed on the cBotics website. Check your Game Log below to confirm if everything is correct or if you want to appeal the results:",
   "TRY_AGAIN": "Try again",
   "HEADER_IMPORTANT": "<b>Important</b>",
   "HEADER_TILESETS": "<b>Tilesets</b>",
