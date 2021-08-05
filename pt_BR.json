@@ -535,5 +535,7 @@
   "REACHED_CHECKPOINT": "Marcador alcançado",
   "USER_REQUESTED_NEW_ATTEMPT": "Nova tentativa solicitada",
   "USER_GAVE_UP": "Desistência solicitada",
-  "REACHED_DEADEND": "Beco sem saída alcançado"
+  "REACHED_DEADEND": "Beco sem saída alcançado",
+  "ALL_OK": "Tudo certo!",
+  "APPEAL_SCORE": "Disputar pontuação dada"
 }
