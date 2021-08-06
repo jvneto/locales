@@ -537,5 +537,6 @@
   "USER_GAVE_UP": "User gave up",
   "REACHED_DEADEND": "Deadend reached",
   "ALL_OK": "All ok!",
-  "APPEAL_SCORE": "Appeal given score"
+  "APPEAL_SCORE": "Appeal given score",
+  "DEAD_END": "Beco sem saída"
 }
