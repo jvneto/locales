@@ -538,5 +538,7 @@
   "REACHED_DEADEND": "Deadend reached",
   "ALL_OK": "All ok!",
   "APPEAL_SCORE": "Appeal given score",
-  "DEAD_END": "Beco sem saída"
+  "DEAD_END": "Beco sem saída",
+  "STARTED_DODGING": "Started obstacle dodging",
+
 }
