@@ -541,5 +541,6 @@
   "DEAD_END": "Beco sem saída",
   "STARTED_DODGING": "Iniciou desvio de obstaculo",
   "ADDED_MULTIPLIER": "Multiplicador adquirido",
-  "LOP_COUNT": "N. de Falhas de Progresso:"
+  "LOP_COUNT": "N. de Falhas de Progresso:",
+  "GAME_FINISHED": "Rotina Encerrada"
 }
