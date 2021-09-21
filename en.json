@@ -542,5 +542,6 @@
   "STARTED_DODGING": "Started obstacle dodging",
   "ADDED_MULTIPLIER": "Multiplier acquired",
   "LOP_COUNT": "Lack of Progress count:",
-  "GAME_FINISHED": "Game Finished"
+  "GAME_FINISHED": "Game Finished",
+  "LOPS_AND_ATTEMPTS": "Lack of Progresses: {0}"
 }
