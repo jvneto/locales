@@ -543,5 +543,6 @@
   "ADDED_MULTIPLIER": "Multiplicador adquirido",
   "LOP_COUNT": "N. de Falhas de Progresso:",
   "GAME_FINISHED": "Rotina Encerrada",
-  "LOPS_AND_ATTEMPTS": "Falhas e Tentativas: {0}"
+  "LOPS_AND_ATTEMPTS": "<b>Falhas e Tentativas:</b> {0}",
+  "GIVE_UP_DISCLAIMER": "<b>Desistência de Rodada solicitada em {0}</b>"
 }
