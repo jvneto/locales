@@ -543,5 +543,6 @@
   "ADDED_MULTIPLIER": "Multiplier acquired",
   "LOP_COUNT": "Lack of Progress count:",
   "GAME_FINISHED": "Game Finished",
-  "LOPS_AND_ATTEMPTS": "Lack of Progresses: {0}"
+  "LOPS_AND_ATTEMPTS": "Lack of Progresses: {0}",
+  "GIVE_UP_DISCLAIMER": "<b>User gave up the round at {0}</b>"
 }
