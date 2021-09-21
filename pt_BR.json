@@ -542,5 +542,6 @@
   "STARTED_DODGING": "Iniciou desvio de obstaculo",
   "ADDED_MULTIPLIER": "Multiplicador adquirido",
   "LOP_COUNT": "N. de Falhas de Progresso:",
-  "GAME_FINISHED": "Rotina Encerrada"
+  "GAME_FINISHED": "Rotina Encerrada",
+  "LOPS_AND_ATTEMPTS": "Falhas e Tentativas: {0}"
 }
