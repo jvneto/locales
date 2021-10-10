@@ -283,7 +283,7 @@
   "ERROR": "Erro",
   "ADJUSTMENTS_TIME": "{0} de ajustes",
   "COMPETING_NO_ADJUSTMENTS_MESSAGE": "Agora você está competindo. Boa competição!",
-  "COMPETING_MESSAGE": "Agora você está competindo e tem {0} minutos para colocar os marcadores. Boa competição!",
+  "COMPETING_MESSAGE": "Agora você está competindo e tem {0} para configurar (caso preciso) e iniciar sua rodada. Boa competição!",
   "CLIENT_ERROR": "Ocorreu um erro no lado do cliente e esta rodada foi encerrada antes do tempo!\nDetalhes:\n",
   "SUBMITTING_RESULTS": "Enviando seus resultados... Isso pode demorar um pouco.",
   "UNABLE_TO_SEND": "Não foi possível enviar seu resultado para nossos servidores :(\nVocê gostaria de tentar de novo?)",
