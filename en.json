@@ -1,4 +1,4 @@
-﻿{
+{
   "ABOUT": "About",
   "CREDITS": "Credits",
   "ABOUT_TEXT": "sBotics is a simulation platform designed to emulate various world-famous robotics competitions, where kits are commonly used to perform the required actions. This platform offers an alternative for those seeking to test and improve their skills in the field as well as being able to test programs without the risk of damaging physical parts.",
@@ -544,5 +544,6 @@
   "LOP_COUNT": "Lack of Progress count:",
   "GAME_FINISHED": "Game Finished",
   "LOPS_AND_ATTEMPTS": "Lack of Progresses: {0}",
-  "GIVE_UP_DISCLAIMER": "<b>User gave up the round at {0}</b>"
+  "GIVE_UP_DISCLAIMER": "<b>User gave up the round at {0}</b>",
+  "GAME_STARTED": "Game Started"
 }
