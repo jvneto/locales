@@ -544,5 +544,6 @@
   "LOP_COUNT": "N. de Falhas de Progresso:",
   "GAME_FINISHED": "Rotina Encerrada",
   "LOPS_AND_ATTEMPTS": "<b>Falhas e Tentativas:</b> {0}",
-  "GIVE_UP_DISCLAIMER": "<b>Desistência de Rodada solicitada em {0}</b>"
+  "GIVE_UP_DISCLAIMER": "<b>Desistência de Rodada solicitada em {0}</b>",
+  "GAME_STARTED": "Rotina Iniciada"
 }
